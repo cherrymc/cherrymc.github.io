@@ -1,8 +1,8 @@
 ---
-title: Welcome to my website
+title: Welcome to the CherryMC website
 layout: page
 feature_image: "/assets/Screenshot.png"
-feature_text: |
+feature_text: CherryMC Server
   ## Hello world
 ---
 
