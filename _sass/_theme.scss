@@ -53,7 +53,6 @@ body {
   .container {
     min-height: 35vh;
     max-width: 60%;
-    color: rgb(116, 201, 20)
     @include flex-direction(column);
     @include justify-content(center);
   }
